@@ -13,9 +13,8 @@ Tenha a variável LANG devidamente configurada ex:
 
 Execução:
 
-    python3 hello.py
-    ou
-    ./hello.py
+    python hello.py
+	
 """
 __version__ = "0.0.1"
 __author__ = "Bruno Rocha"
